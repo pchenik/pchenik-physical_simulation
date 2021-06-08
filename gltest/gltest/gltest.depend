@@ -1,0 +1,297 @@
+# depslib dependency file v1.0
+1619614301 source:/home/val/codeblokcs/2021-04-20 Nikita/Nikita/gltest/gltest/Math/Model.cpp
+	"Model.h"
+	"../Window/View.h"
+
+1619126308 /home/val/codeblokcs/2021-04-20 Nikita/Nikita/gltest/gltest/Math/Model.h
+	"Tensor.h"
+
+1616848418 /home/val/codeblokcs/2021-04-20 Nikita/Nikita/gltest/gltest/Math/Tensor.h
+	"Vector.h"
+
+1619109924 /home/val/codeblokcs/2021-04-20 Nikita/Nikita/gltest/gltest/Math/Vector.h
+	<math.h>
+	"../Type.h"
+
+1619021969 /home/val/codeblokcs/2021-04-20 Nikita/Nikita/gltest/gltest/Type.h
+	<math.h>
+	<stdlib.h>
+
+1619444644 /home/val/codeblokcs/2021-04-20 Nikita/Nikita/gltest/gltest/Window/View.h
+	<GL/glu.h>
+
+1607784604 source:/home/val/codeblokcs/2021-04-20 Nikita/Nikita/gltest/gltest/Math/Tensor.cpp
+	"Tensor.h"
+
+1621360743 source:/home/val/codeblokcs/2021-04-20 Nikita/Nikita/gltest/gltest/Math/Volume.cpp
+	"Volume.h"
+
+1619109207 /home/val/codeblokcs/2021-04-20 Nikita/Nikita/gltest/gltest/Math/Volume.h
+	"Tensor.h"
+
+1619109502 source:/home/val/codeblokcs/2021-04-20 Nikita/Nikita/gltest/gltest/Tools/Allocate.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1619111264 source:/home/val/codeblokcs/2021-04-20 Nikita/Nikita/gltest/gltest/Window/Julian.cpp
+
+1619109901 source:/home/val/codeblokcs/2021-04-20 Nikita/Nikita/gltest/gltest/Window/UniCode.cpp
+
+1619439084 source:/home/val/codeblokcs/2021-04-20 Nikita/Nikita/gltest/gltest/main.cpp
+
+1619560588 /home/val/codeblokcs/2021-04-20 Nikita/Nikita/gltest/gltest/Working/Phyzical Simulations.h
+	<GL/glu.h>
+	<time.h>
+	"../Math/Model.h"
+	"../Math/Volume.h"
+	"../Window/View.h"
+
+1619216970 source:/home/val/codeblokcs/2021-04-20 Nikita/Nikita/gltest/gltest/Window/View.cpp
+	"View.h"
+
+1621360883 source:/home/val/codeblokcs/2021-04-20 Nikita/Nikita/gltest/gltest/Working/Mfp_2009-01-15.cpp
+	"../Math/Volume.h"
+	<omp.h>
+	"Mfp_2009-01-15.h"
+
+1619461037 /home/val/codeblokcs/2021-04-20 Nikita/Nikita/gltest/gltest/Working/Mfp_2009-01-15.h
+
+1619653372 source:/home/val/codeblokcs/2021-04-20 Nikita/Nikita/gltest/gltest/Working/Phyzical Simulations.cpp
+	<GL/glu.h>
+	<GL/glut.h>
+	<time.h>
+	"../Math/Model.h"
+	"../Math/Volume.h"
+	"../Window/View.h"
+	"Phyzical Simulations.h"
+	<omp.h>
+	<iostream>
+
+1619557931 source:/home/val/codeblokcs/2021-04-20 Nikita/Nikita/gltest/gltest/main1.cpp
+	<GL/glut.h>
+	"Math/Vector.h"
+
+1619439084 source:/home/nikita/Diplom/builded/2021-04-20 Nikita/Nikita/gltest/gltest/main.cpp
+
+1621437203 source:/home/nikita/Diplom/builded/2021-04-20 Nikita/Nikita/gltest/gltest/main1.cpp
+	<GL/glut.h>
+	<openacc.h>
+	<stdio.h>
+	<openacc.h>
+
+1621443577 /home/nikita/Diplom/builded/2021-04-20 Nikita/Nikita/gltest/gltest/Math/Vector.h
+	<cmath>
+	"../Type.h"
+
+1619021969 /home/nikita/Diplom/builded/2021-04-20 Nikita/Nikita/gltest/gltest/Type.h
+	<math.h>
+	<stdlib.h>
+
+1619614301 source:/home/nikita/Diplom/builded/2021-04-20 Nikita/Nikita/gltest/gltest/Math/Model.cpp
+	"Model.h"
+	"../Window/View.h"
+
+1619126308 /home/nikita/Diplom/builded/2021-04-20 Nikita/Nikita/gltest/gltest/Math/Model.h
+	"Tensor.h"
+
+1616848418 /home/nikita/Diplom/builded/2021-04-20 Nikita/Nikita/gltest/gltest/Math/Tensor.h
+	"Vector.h"
+
+1619444644 /home/nikita/Diplom/builded/2021-04-20 Nikita/Nikita/gltest/gltest/Window/View.h
+	<GL/glu.h>
+
+1607784604 source:/home/nikita/Diplom/builded/2021-04-20 Nikita/Nikita/gltest/gltest/Math/Tensor.cpp
+	"Tensor.h"
+
+1621360743 source:/home/nikita/Diplom/builded/2021-04-20 Nikita/Nikita/gltest/gltest/Math/Volume.cpp
+	"Volume.h"
+
+1619109207 /home/nikita/Diplom/builded/2021-04-20 Nikita/Nikita/gltest/gltest/Math/Volume.h
+	"Tensor.h"
+
+1619109502 source:/home/nikita/Diplom/builded/2021-04-20 Nikita/Nikita/gltest/gltest/Tools/Allocate.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1619111264 source:/home/nikita/Diplom/builded/2021-04-20 Nikita/Nikita/gltest/gltest/Window/Julian.cpp
+
+1619109901 source:/home/nikita/Diplom/builded/2021-04-20 Nikita/Nikita/gltest/gltest/Window/UniCode.cpp
+
+1619216970 source:/home/nikita/Diplom/builded/2021-04-20 Nikita/Nikita/gltest/gltest/Window/View.cpp
+	"View.h"
+
+1621519239 source:/home/nikita/Diplom/builded/2021-04-20 Nikita/Nikita/gltest/gltest/Working/Phyzical Simulations.cpp
+	<GL/glu.h>
+	<GL/glut.h>
+	<time.h>
+	"../Math/Model.h"
+	"../Math/Volume.h"
+	"../Window/View.h"
+	"Phyzical Simulations.h"
+	<iostream>
+	<openacc.h>
+
+1621519168 /home/nikita/Diplom/builded/2021-04-20 Nikita/Nikita/gltest/gltest/Working/Phyzical Simulations.h
+	<GL/glu.h>
+	<time.h>
+	"../Math/Model.h"
+	"../Math/Volume.h"
+	"../Window/View.h"
+
+1621525655 source:/home/nikita/Diplom/builded/2021-04-20 Nikita/Nikita/gltest/gltest/Working/Mfp_2009-01-15.cpp
+	"../Math/Volume.h"
+	<openacc.h>
+	<cmath>
+	"Mfp_2009-01-15.h"
+	<iostream>
+
+1619461037 /home/nikita/Diplom/builded/2021-04-20 Nikita/Nikita/gltest/gltest/Working/Mfp_2009-01-15.h
+
+1619439084 source:/home/val/codeblocks/Nvidia/gltest/gltest/main.cpp
+
+1622748504 source:/home/val/codeblocks/Nvidia/gltest/gltest/main1.cpp
+	<GL/glut.h>
+	<openacc.h>
+	<stdio.h>
+	<openacc.h>
+
+1622748788 source:/home/val/codeblocks/Nvidia/gltest/gltest/Math/Model.cpp
+	"Model.h"
+	"Volume.h"
+	"../Window/View.h"
+
+1621783901 /home/val/codeblocks/Nvidia/gltest/gltest/Math/Model.h
+	"Tensor.h"
+
+1616848418 /home/val/codeblocks/Nvidia/gltest/gltest/Math/Tensor.h
+	"Vector.h"
+
+1621443577 /home/val/codeblocks/Nvidia/gltest/gltest/Math/Vector.h
+	<cmath>
+	"../Type.h"
+
+1619021969 /home/val/codeblocks/Nvidia/gltest/gltest/Type.h
+	<math.h>
+	<stdlib.h>
+
+1622825629 /home/val/codeblocks/Nvidia/gltest/gltest/Math/Volume.h
+	"Tensor.h"
+
+1621785097 /home/val/codeblocks/Nvidia/gltest/gltest/Window/View.h
+	<GL/glu.h>
+	"../Type.h"
+	"../Math/Vector.h"
+
+1607784604 source:/home/val/codeblocks/Nvidia/gltest/gltest/Math/Tensor.cpp
+	"Tensor.h"
+
+1621360743 source:/home/val/codeblocks/Nvidia/gltest/gltest/Math/Volume.cpp
+	"Volume.h"
+
+1619109502 source:/home/val/codeblocks/Nvidia/gltest/gltest/Tools/Allocate.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1622835942 source:/home/val/codeblocks/Nvidia/gltest/gltest/Working/Mfp_2009-01-15.cpp
+	"Mfp_2009-01-15.h"
+
+1622583306 /home/val/codeblocks/Nvidia/gltest/gltest/Working/Mfp_2009-01-15.h
+	<iostream>
+	"../Math/Volume.h"
+	<openacc.h>
+	<cmath>
+
+1621785134 source:/home/val/codeblocks/Nvidia/gltest/gltest/Window/View.cpp
+	"View.h"
+
+1622823941 source:/home/val/codeblocks/Nvidia/gltest/gltest/Working/Phyzical Simulations.cpp
+	"Phyzical Simulations.h"
+	<stdio.h>
+
+1622821798 /home/val/codeblocks/Nvidia/gltest/gltest/Working/Phyzical Simulations.h
+	<GL/glu.h>
+	<time.h>
+	"../Math/Model.h"
+	"../Math/Volume.h"
+	"../Window/View.h"
+	<iostream>
+	<openacc.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<time.h>
+	"../Math/Model.h"
+	"../Math/Volume.h"
+	"../Window/View.h"
+
+1623101720 source:/home/val/codeblocks/NvidiaRelease/diplom/gltest/gltest/main.cpp
+	<GL/glut.h>
+	<openacc.h>
+	<stdio.h>
+
+1622748788 source:/home/val/codeblocks/NvidiaRelease/diplom/gltest/gltest/Math/Model.cpp
+	"Model.h"
+	"Volume.h"
+	"../Window/View.h"
+
+1621783901 /home/val/codeblocks/NvidiaRelease/diplom/gltest/gltest/Math/Model.h
+	"Tensor.h"
+
+1616848418 /home/val/codeblocks/NvidiaRelease/diplom/gltest/gltest/Math/Tensor.h
+	"Vector.h"
+
+1621443577 /home/val/codeblocks/NvidiaRelease/diplom/gltest/gltest/Math/Vector.h
+	<cmath>
+	"../Type.h"
+
+1623101224 /home/val/codeblocks/NvidiaRelease/diplom/gltest/gltest/Type.h
+	<math.h>
+	<stdlib.h>
+
+1622825629 /home/val/codeblocks/NvidiaRelease/diplom/gltest/gltest/Math/Volume.h
+	"Tensor.h"
+
+1621785097 /home/val/codeblocks/NvidiaRelease/diplom/gltest/gltest/Window/View.h
+	<GL/glu.h>
+	"../Type.h"
+	"../Math/Vector.h"
+
+1607784604 source:/home/val/codeblocks/NvidiaRelease/diplom/gltest/gltest/Math/Tensor.cpp
+	"Tensor.h"
+
+1621360743 source:/home/val/codeblocks/NvidiaRelease/diplom/gltest/gltest/Math/Volume.cpp
+	"Volume.h"
+
+1619109502 source:/home/val/codeblocks/NvidiaRelease/diplom/gltest/gltest/Tools/Allocate.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1621785134 source:/home/val/codeblocks/NvidiaRelease/diplom/gltest/gltest/Window/View.cpp
+	"View.h"
+
+1623101490 source:/home/val/codeblocks/NvidiaRelease/diplom/gltest/gltest/Working/Mfp_2009-01-15.cpp
+	"Mfp_2009-01-15.h"
+
+1623101834 /home/val/codeblocks/NvidiaRelease/diplom/gltest/gltest/Working/Mfp_2009-01-15.h
+	<iostream>
+	"../Math/Volume.h"
+	<openacc.h>
+	<cmath>
+
+1623101814 source:/home/val/codeblocks/NvidiaRelease/diplom/gltest/gltest/Working/Phyzical Simulations.cpp
+	"Phyzical Simulations.h"
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<chrono>
+
+1623101893 /home/val/codeblocks/NvidiaRelease/diplom/gltest/gltest/Working/Phyzical Simulations.h
+	<GL/glu.h>
+	<time.h>
+	"../Math/Model.h"
+	"../Math/Volume.h"
+	"../Window/View.h"
+	<iostream>
+	<openacc.h>
+	<GL/glut.h>
+

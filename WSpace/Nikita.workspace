@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Nikita Greben Diplom">
+		<Project filename="../gltest/gltest/gltest.cbp" />
+		<Project filename="../CalculatingOnly/CalculatingOnly/CalculatingOnly.cbp" />
+		<Project filename="../CalculationOnlyMP/CalculationOnlyMP/CalculationOnlyMP.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="gltest" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/gltest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O3" />
+					<Add option="-std=gnu++17" />
+					<Add option="-m64" />
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add option="-O3" />
+					<Add option="-m64" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/gltest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-march=corei7" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+			<Target title="Nvidia">
+				<Option output="bin/Nvidia/gltest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="nvidia_c_compiler" />
+				<Option use_console_runner="0" />
+				<Option projectCompilerOptionsRelation="1" />
+				<Option projectLinkerOptionsRelation="1" />
+				<Compiler>
+					<Add option="-m64" />
+					<Add option="-acc" />
+					<Add option="-gpu=cc60" />
+				</Compiler>
+				<Linker>
+					<Add option="-m64" />
+					<Add option="-acc" />
+					<Add option="-gpu=cc60" />
+					<Add library="GL" />
+					<Add library="GLU" />
+					<Add library="glut" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-O3" />
+			<Add option="-std=gnu++17" />
+			<Add option="-m64" />
+			<Add option="-funsigned-char" />
+			<Add option="-fopenacc" />
+			<Add option="-ffast-math" />
+			<Add option="-foffload=nvptx-none" />
+			<Add option="-fcf-protection=none" />
+			<Add option="-fexceptions" />
+			<Add option="-Wunused" />
+		</Compiler>
+		<Linker>
+			<Add option="-O3" />
+			<Add option="-m64" />
+			<Add option="-fopenacc" />
+			<Add option="-foffload=nvptx-none" />
+			<Add option="-fcf-protection=none" />
+			<Add option='-foffload=&quot;-O3&quot;' />
+			<Add library="GL" />
+			<Add library="X11" />
+			<Add library="GLU" />
+			<Add library="glut" />
+		</Linker>
+		<Unit filename="Math/Model.cpp" />
+		<Unit filename="Math/Model.h" />
+		<Unit filename="Math/Tensor.cpp" />
+		<Unit filename="Math/Tensor.h" />
+		<Unit filename="Math/Vector.h" />
+		<Unit filename="Math/Volume.cpp" />
+		<Unit filename="Math/Volume.h" />
+		<Unit filename="Tools/Allocate.cpp" />
+		<Unit filename="Tools/Allocate.h" />
+		<Unit filename="Type.h" />
+		<Unit filename="Window/View.cpp" />
+		<Unit filename="Window/View.h" />
+		<Unit filename="Working/Mfp_2009-01-15.cpp" />
+		<Unit filename="Working/Mfp_2009-01-15.h" />
+		<Unit filename="Working/Phyzical Simulations.cpp" />
+		<Unit filename="Working/Phyzical Simulations.h" />
+		<Unit filename="main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
